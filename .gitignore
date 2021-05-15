@@ -1,2 +1,3 @@
 # Project exclude paths
 /target/
+/src/test/java/AdamLoginTest.java
