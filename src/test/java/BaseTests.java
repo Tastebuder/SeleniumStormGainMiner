@@ -3,7 +3,7 @@ import org.junit.BeforeClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class BaseTests {
+public abstract class BaseTests {
     public static WebDriver driver;
 
     @BeforeClass
